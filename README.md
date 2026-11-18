@@ -5,6 +5,12 @@ This project compares passenger traffic with retail licences and advertising rev
 
 The key stakeholders for this project are senior management, the retail leasing team, and the business planning and analytics team. The aim of this project is to identify growth opportunities and support future business planning.
 
+**Assumptions and Caveats:**
+1. ***Revenue measure.*** The HKIA’s annual report publishes *Retail Licences & Advertising Revenue* as a combined line item. This project uses it as an indicator of commercial revenue growth. Assessing retail sales performance and its relationship with passenger traffic would require sales data from airport retailers.
+2. ***Visitor age profiles.*** HKTB’s age breakdown covers visitors arriving in Hong Kong by all modes of transport. An age breakdown specific to air visitors was unavailable in the report used. The age profiles therefore describe the broader inbound visitor market.
+3. ***Reporting periods.*** The Airport Authority’s FY25/26 covers April 2025 to March 2026. The HKTB September 2026 Visitor Arrival Statistics covers January–September 2026, while ACI collected its primary data from mid-October 2025 to mid-January 2026. Comparisons across these sources are indicative because they cover different periods.
+4. ***Generations, preferences and purchase drivers.*** HKTB’s age groups only partially overlap with ACI’s generation definitions. To understand how shopping preferences and purchase drivers vary by age at HKIA would require airport-specific survey data broken down by age group.
+
 **Source:** 
 
 Hong Kong International Airport (HKIA) annual report FY2021/22, FY2022/23, FY2023/24, FY2024/25, FY2025/26
